@@ -7,7 +7,7 @@ Proyek *landing page* sederhana yang dibuat sebagai bagian dari kurikulum **The 
 * **CSS3** (Custom Properties & Flexbox)
 
 ## 🚀 Live Preview
-Kamu bisa melihat hasilnya di sini: [Link GitHub Pages Kamu]
+Kamu bisa melihat hasilnya di sini:  https://asyahi-helmy.github.io/landing-page-odin/
 
 ## 📝 Catatan Proyek
 Tujuan dari proyek ini adalah:
